@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
+To fix various errors in site markup.
 
-[TODO. There will be project description]
 
 # Project Goals
 
