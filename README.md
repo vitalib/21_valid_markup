@@ -1,5 +1,7 @@
 # Site of Real Estate Agency
-To fix various errors in site markup.
+Site URL - https://vitalib.github.io/21_valid_markup/index.html
+
+Variety bugs were fixed.
 
 
 # Project Goals
